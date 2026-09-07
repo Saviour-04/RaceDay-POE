@@ -1,6 +1,17 @@
-# RaceDay-POE
-
+markdown
 # RaceDay Event Management System - Part 1
+
+
+👤 Student Information
+
+Module	Programming 2B
+Module Code	PROG6212
+Assessment	Portfolio of Evidence (POE) - Part 1
+Year	2026
+Student Name	[Saviour mkhatshwa]
+Student Number	[ST10489983]
+GitHub Link: https:https://github.com/Saviour-04/RaceDay-POE/edit/main/README.md
+
 
 ## 📋 Project Overview
 
@@ -187,7 +198,7 @@ https://CI-CD_Success.png
 📹 Video Presentation
 Watch the Part 1 walkthrough explaining the planning documents:
 
-https://img.youtube.com/vi/YOUR-VIDEO-ID/0.jpg
+VIDE LINK https://youtu.be/8vEJP-hL4hA
 
 Video covers:
 
@@ -241,6 +252,8 @@ RaceDay-POE/
     ├── ERD.png                        # Entity Relationship Diagram
     ├── API_Endpoint_Plan.md           # Complete API endpoint specifications
     └── RaceDay_Database.sql           # SQL Server database script
+
+
 ✅ Part 1 Checklist
 ☑ ERD created with 5+ entities
 ☑ All relationships and cardinalities defined
@@ -276,16 +289,14 @@ GitHub Actions Documentation: https://docs.github.com/en/actions
 
 
 
-GitHub Link: https://github.com/Saviour-04/RaceDay-POE/edit/main/README.md
-Assessment Type: POE (Paper and Marking Rubrics)
 
-Total Hours: Minimum 45 hours suggested
 
-© 2026 - RaceDay Event Management System
-This project is submitted as part of the Programming 2B assessment requirements.
 
-text
 
 ---
+
+
+
+
 
 

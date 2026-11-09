@@ -63,7 +63,8 @@ The MVC app then reads this URL from the database to display the event banner.
 
 🔄 CI/CD Pipeline
 This project uses GitHub Actions for Continuous Integration.
-https://github.com/[YOUR-GITHUB-USERNAME]/[YOUR-REPO-NAME]/actions/workflows/dotnet.yml/badge.svg
+
+GITHUB LINK : https://github.com/Saviour-04/RaceDay-POE
 
 🎥 Video Presentation
 link :

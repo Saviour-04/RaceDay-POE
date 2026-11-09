@@ -67,7 +67,7 @@ This project uses GitHub Actions for Continuous Integration.
 GITHUB LINK : https://github.com/Saviour-04/RaceDay-POE
 
 🎥 Video Presentation
-link :
+link :  https://youtu.be/JBoh6lgLjAo?si=thdc3wVi_VHZyPEB
 
 Video Covers:
 
